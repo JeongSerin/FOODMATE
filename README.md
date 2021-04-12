@@ -1,6 +1,5 @@
-![KakaoTalk_20201006_170735345](/uploads/19c00166981c826a8724fac3a46cd011/KakaoTalk_20201006_170735345.png)
 
-https://gitlab.com/tpfls410/foodmate
+commit log: https://gitlab.com/tpfls410/foodmate
 
 ## 🎈 프로젝트 이름 : 푸드메이트
 
